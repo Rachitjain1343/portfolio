@@ -108,15 +108,15 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/rachit-jain-579709173/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://www.instagram.com/p/CxbJW_AhEm7/?igshid=MzRlODBiNWFlZA==
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Rachitjain1343/portfolio
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
@@ -124,8 +124,8 @@ link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
-image: $assets.files.images.mail.png
+link: mailto:jrachit152@gmail.com
+image: file:///C:/Users/garvit%20jain/Pictures/Screenshots/Screenshots/IMG_6165.jpeg
 
 -- end: ftd.row
 
